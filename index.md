@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Cerulean'
-description: null
+description: Does this overwrite?
 image: null
 author: null
 show_tile: false
