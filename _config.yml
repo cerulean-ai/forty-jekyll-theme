@@ -1,6 +1,6 @@
 # site settings
 title: Cerulean
-subtitle: - AI
+subtitle: null
 email: youremailaddress@gmail.com
 description: Straightforward Data Science Delivery 
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
